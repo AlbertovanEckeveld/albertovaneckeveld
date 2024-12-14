@@ -1,16 +1,16 @@
-# Hi there, I'm Alberto van Eckeveld 👋
+# Hi there 👋
 
-## A passionate Cybersecurity student from The Netherlands
+## A Cybersecurity student from The Netherlands
 I'm a passionate Cybersecurity student with a love for learning technologies and programming. 
 
 ## Skillset
 - **Languages:** Python and Java (learning: C/C++ and assembly)
-- **Frameworks:** React, Node.js, Spring
+- **Frameworks:** Flask
 - **Tools:** Git and Docker
 - **Databases:** MySQL, PostgresQL
 
 ## Projects
-- **[Project Steam](https://github.com/AlbertovanEckeveld/steam)**: A archived school project.
+- **[Project Steam](https://github.com/AlbertovanEckeveld/steam)**: A archived school project (Docs are in Dutch).
 
 ## Contact
 - **Email:** info@albertove.nl
