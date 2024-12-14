@@ -1,23 +1,20 @@
 # Hi there, I'm Alberto van Eckeveld 👋
 
 ## About Me
-I'm a passionate developer with a love for learning and creating. I enjoy working on a variety of projects and am always looking for new challenges.
+I'm a passionate Cybersecurity student with a love for learning technologies and creating. 
 
-## Skills
-- **Languages:** JavaScript, Python, Java
+## Skillset
+- **Languages:** Python and Java (learning: C/C++ and assembly)
 - **Frameworks:** React, Node.js, Spring
-- **Tools:** Git, Docker, Kubernetes
-- **Databases:** MySQL, MongoDB
+- **Tools:** Git and Docker
+- **Databases:** MySQL, PostgresQL
 
 ## Projects
-- **[Project One](https://github.com/AlbertovanEckeveld/project-one)**: A brief description of what this project is about.
-- **[Project Two](https://github.com/AlbertovanEckeveld/project-two)**: A brief description of what this project is about.
-- **[Project Three](https://github.com/AlbertovanEckeveld/project-three)**: A brief description of what this project is about.
+- **[Project Steam](https://github.com/AlbertovanEckeveld/steam)**: A archived school project.
 
 ## Contact
-- **Email:** alberto@example.com
-- **LinkedIn:** [Alberto van Eckeveld](https://www.linkedin.com/in/albertovanEckeveld/)
-- **Twitter:** [@AlbertoVanE](https://twitter.com/AlbertoVanE)
+- **Email:** info@albertove.nl
+- **LinkedIn:** [Alberto van Eckeveld](https://www.linkedin.com/in/alberto-van-eckeveld-034b0721b)
 
 ## Other Interests
-When I'm not coding, I enjoy hiking, reading, and exploring new technologies.
+When I'm not coding, I enjoy play soccer, reading books, and exploring new technologies.
