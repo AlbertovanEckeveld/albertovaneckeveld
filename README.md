@@ -1,7 +1,7 @@
 # Hi there, I'm Alberto van Eckeveld 👋
 
-## About Me
-I'm a passionate Cybersecurity student with a love for learning technologies and creating. 
+## A passionate Cybersecurity student from The Netherlands
+I'm a passionate Cybersecurity student with a love for learning technologies and programming. 
 
 ## Skillset
 - **Languages:** Python and Java (learning: C/C++ and assembly)
