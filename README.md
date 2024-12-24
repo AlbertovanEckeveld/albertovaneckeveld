@@ -7,10 +7,11 @@ I'm a passionate Cybersecurity student with a love for learning technologies and
 - **Languages:** Python and Java (learning: C/C++ and assembly)
 - **Frameworks:** Flask
 - **Tools:** Git and Docker
-- **Databases:** MySQL, PostgresQL
+- **Databases:** MySQL, PostgreSQL
 
 ## Projects
 - **[Project Steam](https://github.com/AlbertovanEckeveld/steam)**: A archived school project (Docs are in Dutch).
+- **[SimpleFolderSync](https://github.com/AlbertovanEckeveld/SimpleFolderSync)**: A selfmade tool for homelab usecase.
 
 ## Contact
 - **Email:** info@albertove.nl
